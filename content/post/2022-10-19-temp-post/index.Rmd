@@ -31,7 +31,9 @@ I like data
   * When you answer one question, usually more questions arise as well. 
   * The depth of the DA is about coming up with and exploring the answers to these questions, often iterating the process a few times.
 * Inference 
-  * You include some kind of formal statistical model and/or inference. This could be a linear regression, logistic regression, hypothesis testing etc.
+* Modeling
+* Bullet point
+  * Explain the techniques you used for validating your results.
   * Describe the results of your modelling and make sure to give a sense of the uncertainty in your estimates and conclusions.
 * Explain the flaws and limitations of your analysis
   * Are there some assumptions that you needed to make that might not hold? Is there other data that would help to answer your questions? ...
